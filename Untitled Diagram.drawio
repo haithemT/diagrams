@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-24T08:59:27.430Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="IpicmKwi4hfnJ--yzIsK" version="13.10.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-24T09:04:48.611Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="WshLaPC6YNaaEFsuwmdt" version="13.10.2" type="github">
   <diagram id="I4OeQGyICHFJKAzLYiSq" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -26,10 +26,28 @@
           <mxGeometry x="140" y="140" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ThTMRLt4GayNaDXG0wz7-9" value="&lt;font color=&quot;#000000&quot;&gt;Web&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontColor=#FF0000;" vertex="1" parent="1">
-          <mxGeometry x="20" y="240" width="220" height="210" as="geometry" />
+          <mxGeometry x="20" y="240" width="330" height="260" as="geometry" />
         </mxCell>
-        <mxCell id="ThTMRLt4GayNaDXG0wz7-10" value="Liquify" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontColor=#FF0000;" vertex="1" parent="1">
-          <mxGeometry x="250" y="240" width="70" height="210" as="geometry" />
+        <mxCell id="ThTMRLt4GayNaDXG0wz7-10" value="Liquify" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="630" y="290" width="70" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="ThTMRLt4GayNaDXG0wz7-17" value="Search" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fillColor=#ffe6cc;strokeColor=#d79b00;align=left;spacingLeft=4;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="30" y="250" width="310" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ThTMRLt4GayNaDXG0wz7-18" value="Create" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="30" y="310" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ThTMRLt4GayNaDXG0wz7-19" value="Admin" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="30" y="370" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ThTMRLt4GayNaDXG0wz7-24" value="Grid" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="98" y="255" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ThTMRLt4GayNaDXG0wz7-25" value="Filters" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="158" y="255" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ThTMRLt4GayNaDXG0wz7-27" value="col manager" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="218" y="255" width="70" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
