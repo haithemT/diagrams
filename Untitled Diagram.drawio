@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-24T10:43:43.055Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="jduB3Q74iRUOSbDN7YiI" version="13.10.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-24T10:44:20.213Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="nux3JVfGsa9YJVjE-WpP" version="13.10.2" type="github">
   <diagram id="I4OeQGyICHFJKAzLYiSq" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -113,7 +113,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ThTMRLt4GayNaDXG0wz7-45" value="&lt;font color=&quot;#000000&quot;&gt;Common&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontColor=#FF0000;" vertex="1" parent="1">
-          <mxGeometry x="30" y="1030" width="550" height="40" as="geometry" />
+          <mxGeometry x="28" y="1020" width="550" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ThTMRLt4GayNaDXG0wz7-48" value="&lt;font color=&quot;#000000&quot;&gt;Search&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontColor=#FF0000;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="24" y="610" width="100" height="140" as="geometry" />
@@ -204,7 +204,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ThTMRLt4GayNaDXG0wz7-95" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 15px&quot;&gt;Client custom module&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;align=center;verticalAlign=top;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
+        <mxCell id="ThTMRLt4GayNaDXG0wz7-95" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 15px&quot;&gt;Client custom module&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;align=center;verticalAlign=middle;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
           <mxGeometry x="670" y="650" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ThTMRLt4GayNaDXG0wz7-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=none;startFill=0;fontSize=17;fontColor=#994C00;" edge="1" parent="1" source="ThTMRLt4GayNaDXG0wz7-104" target="ThTMRLt4GayNaDXG0wz7-95">
