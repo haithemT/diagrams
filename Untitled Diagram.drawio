@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-24T09:39:20.245Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="mVWolYSObDe-JNXzcGdu" version="13.10.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-24T09:41:03.035Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="uLWMuRxKdnipKsExmclP" version="13.10.2" type="github">
   <diagram id="I4OeQGyICHFJKAzLYiSq" name="Page-1">
     <mxGraphModel dx="1185" dy="635" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -109,14 +109,26 @@
         <mxCell id="ThTMRLt4GayNaDXG0wz7-54" value="&lt;font color=&quot;#000000&quot;&gt;Context&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontColor=#FF0000;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="250" y="810" width="100" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="ThTMRLt4GayNaDXG0wz7-55" value="App Context" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;align=center;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="ThTMRLt4GayNaDXG0wz7-55" value="App Context" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;align=center;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="260" y="840" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ThTMRLt4GayNaDXG0wz7-56" value="Search context" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;align=center;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="ThTMRLt4GayNaDXG0wz7-56" value="Search context" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;align=center;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="260" y="880" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ThTMRLt4GayNaDXG0wz7-58" value="builder context" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;align=center;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="ThTMRLt4GayNaDXG0wz7-58" value="builder context" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;align=center;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="260" y="920" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ThTMRLt4GayNaDXG0wz7-59" value="extending tools" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;align=center;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="138" y="840" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ThTMRLt4GayNaDXG0wz7-61" value="layout manager" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;align=center;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="25" y="840" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ThTMRLt4GayNaDXG0wz7-62" value="module loader" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;align=center;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="25" y="880" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ThTMRLt4GayNaDXG0wz7-63" value="extending tools" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;align=center;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="25" y="920" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
