@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-22T09:47:45.823Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="RTcFxXXEjffCrdGdj075" version="14.2.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-01-22T10:14:32.417Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="7pLm7MsSJ341gnWUCmKC" version="14.2.3" type="github" pages="2">
   <diagram id="I4OeQGyICHFJKAzLYiSq" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -258,10 +258,19 @@
     </mxGraphModel>
   </diagram>
   <diagram id="BuSOC8uoZ5hX0TfGibXo" name="Page-2">
-    <mxGraphModel dx="1673" dy="896" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="981" dy="526" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="4u6ienQykHE3OynPEv0S-0" />
         <mxCell id="4u6ienQykHE3OynPEv0S-1" parent="4u6ienQykHE3OynPEv0S-0" />
+        <mxCell id="bDMwyNYT03PSycA6AyNP-8" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="4u6ienQykHE3OynPEv0S-1">
+          <mxGeometry x="620" y="500" width="540" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="bDMwyNYT03PSycA6AyNP-19" value="build as esm modules and import as url using systemJS&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;verticalAlign=top;spacingTop=28;align=left;spacingLeft=5;spacingRight=5;" vertex="1" parent="4u6ienQykHE3OynPEv0S-1">
+          <mxGeometry x="771.5" y="550" width="124" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="bDMwyNYT03PSycA6AyNP-16" value="publish packages to artifactory.&lt;br&gt;&lt;br&gt;allow client to download latest version from public artifactory?" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;verticalAlign=top;spacingTop=28;align=left;spacingLeft=5;spacingRight=5;" vertex="1" parent="4u6ienQykHE3OynPEv0S-1">
+          <mxGeometry x="626" y="550" width="124" height="220" as="geometry" />
+        </mxCell>
         <mxCell id="fA-x3dom-PVKmo5fi-3d-15" value="Client Model Management App" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;align=center;fillColor=#fff2cc;strokeColor=#d6b656;verticalAlign=top;" parent="4u6ienQykHE3OynPEv0S-1" vertex="1">
           <mxGeometry x="620" y="310" width="290" height="140" as="geometry" />
         </mxCell>
@@ -411,6 +420,15 @@
         </mxCell>
         <mxCell id="bDMwyNYT03PSycA6AyNP-3" value="Default Model Management App" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;align=center;fillColor=#fff2cc;strokeColor=#d6b656;verticalAlign=middle;" vertex="1" parent="4u6ienQykHE3OynPEv0S-1">
           <mxGeometry x="920" y="310" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bDMwyNYT03PSycA6AyNP-11" value="Deployement" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontColor=#004C99;" vertex="1" parent="4u6ienQykHE3OynPEv0S-1">
+          <mxGeometry x="633" y="510" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="bDMwyNYT03PSycA6AyNP-13" value="npm packages" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="4u6ienQykHE3OynPEv0S-1">
+          <mxGeometry x="633" y="560" width="97" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="bDMwyNYT03PSycA6AyNP-18" value="in browser imports" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="4u6ienQykHE3OynPEv0S-1">
+          <mxGeometry x="775.5" y="560" width="116" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
