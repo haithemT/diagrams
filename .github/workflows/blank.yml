@@ -31,7 +31,8 @@ jobs:
 
       # Runs a set of commands using the runners shell
       - name: Run a multi-line script
+        env:
+          SECRET: ${{ secrets.TEST }}
         run: |
-          echo "registry=https://company.jfrog.io/artifactory/api/npm/npm-registry-name/" > .npmrc
-          echo "_auth = ${{ secrets.JFROG_NPM_AUTH_TOKEN }}" >> .npmrc
-          echo "always-auth = true" >> .npmrc
+          printf $SECRET >> .env
+          cat .env 
