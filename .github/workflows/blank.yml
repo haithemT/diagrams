@@ -30,7 +30,7 @@ jobs:
         env:
           SECRET: ${{ secrets.TEST }}
         run: |
-          echo "$SECRET" >> .env
+          printf "$SECRET" >> .env
           cat .env 
 
       # Run with print
@@ -38,5 +38,5 @@ jobs:
         env:
           SECRET: ${{ secrets.TEST }}
         run: |
-          printf $SECRET >> .env
-          cat .env 
+          printf $SECRET >> .env2
+          cat .env2
